@@ -1,0 +1,83 @@
+*{
+    font-family:Story Script, cursive;
+}
+h1{
+    color: rgb(101, 101, 241);
+}
+body{
+    background-color: rgb(6, 3, 24);
+}
+#first{
+    background-color: rgb(27, 27, 71);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+#second{
+    text-align: center;
+    background-color: rgb(120, 120, 192);
+}
+.button{
+
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 10px;
+    background-color: rgb(6, 3, 24);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#third{
+    background-color: rgb(27, 27, 71);
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+.img{
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.text{
+    color: white;
+    font-size: 10px;
+    
+}
+#forth{
+    background-color: rgb(27, 27, 71);
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+#fifth{
+    background-color: rgb(27, 27, 71);
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+#sixth{
+    background-color: rgb(27, 27, 71);
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+footer {
+  background: rgb(27, 27, 71);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px; 
+  font-size: 14px;
+}
